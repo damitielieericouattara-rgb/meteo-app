@@ -1,7 +1,5 @@
-import WeatherApp from './WeatherApp'
+import WeatherApp from "./WeatherApp";
 
-function App() {
-  return <WeatherApp />
+export default function App() {
+  return <WeatherApp />;
 }
-
-export default App
